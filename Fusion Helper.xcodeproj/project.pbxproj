@@ -117,9 +117,9 @@
 		63EB0B4D17ACC418006C9F66 /* Fusion Helper */ = {
 			isa = PBXGroup;
 			children = (
+				63EB0B5C17ACC419006C9F66 /* MainMenu.xib */,
 				63EB0B5917ACC419006C9F66 /* FHAppDelegate.h */,
 				63EB0B5A17ACC419006C9F66 /* FHAppDelegate.m */,
-				63EB0B5C17ACC419006C9F66 /* MainMenu.xib */,
 				63EB0B7B17ACDED6006C9F66 /* FHHarddriveTabView.h */,
 				63EB0B7C17ACDED6006C9F66 /* FHHarddriveTabView.m */,
 				63EB0B4E17ACC418006C9F66 /* Supporting Files */,
@@ -459,6 +459,7 @@
 				63EB0B7717ACC419006C9F66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63EB0B7817ACC419006C9F66 /* Build configuration list for PBXNativeTarget "Fusion HelperTests" */ = {
 			isa = XCConfigurationList;
@@ -467,6 +468,7 @@
 				63EB0B7A17ACC419006C9F66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

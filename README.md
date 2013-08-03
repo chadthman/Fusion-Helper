@@ -1,4 +1,4 @@
 Fusion-Helper
 =============
 
-A tool for managing Apple Fusion Drive Volumes
+A Tool for Managing Apple Fusion Drive Volumes

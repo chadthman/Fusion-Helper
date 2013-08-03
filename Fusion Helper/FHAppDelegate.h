@@ -10,7 +10,9 @@
 
 @interface FHAppDelegate : NSObject <NSApplicationDelegate>
 {
-    NSMutableArray *diskList;
+    NSMutableDictionary *diskList;
+    NSMutableDictionary *fusionList;
+    NSScrollView *diskScrollView;
 }
 
 @property (assign) IBOutlet NSWindow *window;
